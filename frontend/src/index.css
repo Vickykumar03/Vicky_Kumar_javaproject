@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --primary: #174C3C;
+    --primary-dark: #0E3227;
+    --secondary: #2563EB;
+    --accent: #D9A441;
+    --bg-main: #F8FAF8;
+    --text-main: #172B24;
+  }
+
+  body {
+    background-color: var(--bg-main);
+    color: var(--text-main);
+    font-family: 'Inter', 'Noto Sans Devanagari', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+}
+
+.font-hindi {
+  font-family: 'Noto Sans Devanagari', sans-serif;
+}

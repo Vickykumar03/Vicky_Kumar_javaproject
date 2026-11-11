@@ -1,0 +1,154 @@
+{
+  "nav": {
+    "logo": "GramSaksham",
+    "tagline": "Rural Governance & Citizen Empowerment",
+    "home": "Home",
+    "schemes": "Government Schemes",
+    "complaint": "Report a Complaint",
+    "track": "Track Grievance",
+    "modules": "Modules",
+    "howItWorks": "How It Works",
+    "about": "About Us",
+    "login": "Login",
+    "register": "Register",
+    "dashboard": "Dashboard",
+    "logout": "Logout"
+  },
+  "hero": {
+    "badge": "Chandil Block Pilot • Seraikela-Kharsawan, Jharkhand",
+    "title": "Your Rights. Your Voice. A Stronger Gram Panchayat.",
+    "subtitle": "Access government welfare schemes, understand your statutory rights, report corruption, and track official accountability through one simple, secure platform.",
+    "ctaSchemes": "Find Government Schemes",
+    "ctaComplaint": "Report a Complaint",
+    "ctaTrack": "Track Complaint Status",
+    "stat1": "100% Conflict-of-Interest Protected",
+    "stat2": "Verified Pilot Schemes",
+    "stat3": "Direct Vigilance Routing"
+  },
+  "problem": {
+    "badge": "Ground Reality in Rural Governance",
+    "title": "Bridging The Citizen-Administration Gap",
+    "desc": "In many villages, citizens face structural barriers accessing benefits and seeking accountability. GramSaksham builds institutional transparency directly for rural families.",
+    "item1Title": "Unlawful Bribery Demands",
+    "item1Desc": "Demands for cash signatures on housing installments and certificates go unreported due to fear of retribution.",
+    "item2Title": "Unfair Scheme Rejection",
+    "item2Desc": "Eligible families living in kutcha homes are arbitrarily dropped from beneficiary lists without written reasons.",
+    "item3Title": "No Higher Appeal Route",
+    "item3Desc": "Citizens do not know that grievances against Panchayat representatives must be filed with the Block Development Officer or Vigilance.",
+    "item4Title": "Lack of Tracking",
+    "item4Desc": "Submitted applications and complaints disappear into offline files without receipt numbers or status timelines."
+  },
+  "modules": {
+    "badge": "Civic-Tech Platform Architecture",
+    "title": "Modular Village Governance Tools",
+    "gramConnect": {
+      "title": "GramConnect",
+      "tag": "Active MVP",
+      "desc": "Verified welfare scheme discovery and rule-based eligibility assessment engine with document checklists."
+    },
+    "smartPanchayat": {
+      "title": "Smart Panchayat",
+      "tag": "Active MVP",
+      "desc": "Secure corruption reporting, automated conflict-of-interest flagging, and public status tracking timeline."
+    },
+    "jalWatch": {
+      "title": "JalWatch",
+      "tag": "Extension",
+      "desc": "Village drinking water supply monitoring, broken handpump alerts, and pipeline repair dispatch."
+    },
+    "workVerify": {
+      "title": "WorkVerify AI",
+      "tag": "Extension",
+      "desc": "Public infrastructure monitoring with geotagged progress photos and independent human verification."
+    },
+    "krishiAlert": {
+      "title": "KrishiAlert",
+      "tag": "Extension",
+      "desc": "Localized weather forecasts, rabi/kharif crop disease alerts, and agricultural subsidy notices for Chandil."
+    }
+  },
+  "howItWorks": {
+    "badge": "Simple Citizen Journey",
+    "title": "Accountable Governance in 4 Clear Steps",
+    "step1": "Check Scheme Eligibility",
+    "step1Desc": "Answer simple household questions to know your statutory eligibility under PMAY-G, SBM-G, or Abua Awas.",
+    "step2": "File Grievance Confidentially",
+    "step2Desc": "Report bribery, extortion, or unjustified exclusion with optional proof and confidentiality safeguards.",
+    "step3": "Conflict-Safe Routing",
+    "step3Desc": "Complaints against local representatives are routed directly to the BDO Chandil or ACB Vigilance, never to the accused.",
+    "step4": "Track Real Action",
+    "step4Desc": "Follow every step of investigation, review official Action Taken Reports (ATR), and reopen if unsatisfied."
+  },
+  "trust": {
+    "badge": "Security & DPDP Compliance",
+    "title": "Built on Trust, Privacy and Rule of Law",
+    "point1": "Conflict-of-Interest Safeguard: Accused officials can never review or suppress complaints against themselves.",
+    "point2": "Data Minimization: Confidential and anonymous options protect citizen identities from local retaliation.",
+    "point3": "Legal Clarity: Internal complaint logging is transparently marked and routed to authorized statutory desks.",
+    "point4": "Verifiable Rules: Scheme eligibility uses official Central & Jharkhand Gazettes without invented metrics."
+  },
+  "schemes": {
+    "title": "GramConnect — Government Schemes Directory",
+    "subtitle": "Verified Central and Jharkhand State welfare programs for Chandil Block",
+    "searchPlaceholder": "Search by scheme name, benefits, or department...",
+    "allCategories": "All Categories",
+    "housing": "Housing",
+    "sanitation": "Sanitation",
+    "agriculture": "Agriculture",
+    "socialSecurity": "Social Security",
+    "checkEligibility": "Check My Eligibility",
+    "requestAssistance": "Request Application Help",
+    "verifiedDate": "Verified on",
+    "benefits": "Key Benefits",
+    "eligibilitySummary": "Eligibility Criteria",
+    "requiredDocs": "Required Documents",
+    "department": "Administering Department",
+    "officialWebsite": "Visit Official Portal"
+  },
+  "complaint": {
+    "title": "Smart Panchayat — Lodge a Grievance",
+    "subtitle": "Submit complaints regarding bribery, fund diversion, or unfair rejection in Chandil Block",
+    "noticeTitle": "Safety & Conflict-of-Interest Protection Guarantee",
+    "noticeDesc": "Any allegation against a Mukhiya, Panchayat Secretary, or village official is automatically elevated to the Block Development Officer (BDO) Chandil and Anti-Corruption Bureau. The accused official is strictly prohibited from accessing this file.",
+    "category": "Grievance Category",
+    "schemeOrService": "Scheme or Service Involved",
+    "incidentDate": "Date of Incident",
+    "panchayat": "Gram Panchayat",
+    "village": "Village",
+    "accusedName": "Person / Official Complained Against (if known)",
+    "accusedDesignation": "Their Designation (e.g., Mukhiya, Panchayat Secretary, Rojgar Sevak)",
+    "amountDemanded": "Amount Demanded as Bribe (₹, if applicable)",
+    "paymentMade": "Was payment actually made?",
+    "confidentiality": "Confidentiality Preference",
+    "confidential": "Confidential (Identity shared only with investigating BDO/ACB officer)",
+    "anonymous": "Completely Anonymous (No personal details recorded)",
+    "public": "Public Transparency (Summary visible on village dashboard)",
+    "description": "Detailed Description of Incident",
+    "descriptionPlaceholder": "Please describe what happened, where, and what was demanded...",
+    "submit": "Submit Grievance Securely",
+    "successTitle": "Grievance Registered Successfully!",
+    "copyRef": "Copy Tracking Reference Number"
+  },
+  "track": {
+    "title": "Track Grievance Status",
+    "subtitle": "Real-time timeline tracking for Smart Panchayat complaint references",
+    "inputPlaceholder": "Enter Reference Number (e.g. GS-2026-CH-1001)",
+    "trackBtn": "Track Status",
+    "status": "Current Status",
+    "routedTo": "Investigating Authority",
+    "conflictBadge": "Vigilance Escrow (Accused Local Official Excluded)",
+    "timeline": "Investigation Timeline & Action Taken Reports",
+    "citizenFeedback": "Citizen Feedback & Reopening",
+    "feedbackPlaceholder": "Provide feedback on the action taken or describe why you are not satisfied...",
+    "submitFeedback": "Submit Feedback",
+    "requestReopen": "Request Case Reopening"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred. Please try again.",
+    "empty": "No records found.",
+    "save": "Save Changes",
+    "cancel": "Cancel",
+    "close": "Close"
+  }
+}
