@@ -1,1 +1,9 @@
+# Java compiled files
 *.class
+
+# Temporary files
+*.log
+
+# IDE files
+.vscode/
+.idea/
